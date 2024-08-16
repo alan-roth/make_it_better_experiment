@@ -1,0 +1,5 @@
+#ignore config.py
+config.py
+error.log
+conversation.log
+analysis.csv
