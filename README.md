@@ -1,4 +1,4 @@
-# Project Mega_helloworld:  The Infinite "Hello World" Challenge
+# Project Mega_helloworld: Make it better
 
 ## Objective
 To explore the extent to which Generative AI can enhance a simple Python program when provided with perpetually vague feedback.
@@ -14,3 +14,4 @@ To explore the extent to which Generative AI can enhance a simple Python program
 3. **Repetition**: Continue this cycle for 100+ iterations.
 
 <img src="images/hello_world_project.webp" alt="Project Representation" width="600"/>
+
