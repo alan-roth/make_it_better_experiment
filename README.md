@@ -15,3 +15,8 @@ To explore the extent to which Generative AI can enhance a simple Python program
 
 <img src="images/hello_world_project.webp" alt="Project Representation" width="600"/>
 
+---
+**Instructions:**
+Run set your OpenAI API key in a config file and the run make_it_better.py
+
+The program will save the conversation into a log\ directory as conversation.csv along with error.log which will logs key steps of the execution.
