@@ -3,6 +3,9 @@
 ## Objective
 To explore the extent to which Generative AI can enhance a simple Python program when provided with perpetually vague feedback.
 
+For results and a discussion of the learnings, please see this blog post:  https://www.linkedin.com/pulse/surprising-results-asking-ai-make-better-alan-roth-qlpqc
+
+
 ## Experiment Overview
 
 1. **Initial Task**: Start with the classic programming task:
