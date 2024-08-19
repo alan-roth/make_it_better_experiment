@@ -1,4 +1,4 @@
-# Project Mega_helloworld: Make it better
+# Experiment:  Make it better
 
 ## Objective
 To explore the extent to which Generative AI can enhance a simple Python program when provided with perpetually vague feedback.
@@ -20,3 +20,5 @@ To explore the extent to which Generative AI can enhance a simple Python program
 Run set your OpenAI API key in a config file and the run make_it_better.py
 
 The program will save the conversation into a log\ directory as conversation.csv along with error.log which will logs key steps of the execution.
+
+
