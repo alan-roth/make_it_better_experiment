@@ -20,7 +20,7 @@ For results and a discussion of the learnings, please see this blog post:  https
 
 ---
 **Instructions:**
-Run set your OpenAI API key in a config file and the run make_it_better.py
+After cloning the repository, set your OpenAI API key in a config file and the run make_it_better.py
 
 The program will save the conversation into a log\ directory as conversation.csv along with error.log which will logs key steps of the execution.
 
